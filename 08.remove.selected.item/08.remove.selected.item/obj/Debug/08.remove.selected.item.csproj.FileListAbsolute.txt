@@ -1,0 +1,10 @@
+C:\Users\abdul\source\repos\08.remove.selected.item\08.remove.selected.item\bin\Debug\08.remove.selected.item.exe.config
+C:\Users\abdul\source\repos\08.remove.selected.item\08.remove.selected.item\bin\Debug\08.remove.selected.item.exe
+C:\Users\abdul\source\repos\08.remove.selected.item\08.remove.selected.item\bin\Debug\08.remove.selected.item.pdb
+C:\Users\abdul\source\repos\08.remove.selected.item\08.remove.selected.item\obj\Debug\08.remove.selected.item.csproj.AssemblyReference.cache
+C:\Users\abdul\source\repos\08.remove.selected.item\08.remove.selected.item\obj\Debug\_08.remove.selected.item.Form1.resources
+C:\Users\abdul\source\repos\08.remove.selected.item\08.remove.selected.item\obj\Debug\_08.remove.selected.item.Properties.Resources.resources
+C:\Users\abdul\source\repos\08.remove.selected.item\08.remove.selected.item\obj\Debug\08.remove.selected.item.csproj.GenerateResource.cache
+C:\Users\abdul\source\repos\08.remove.selected.item\08.remove.selected.item\obj\Debug\08.remove.selected.item.csproj.CoreCompileInputs.cache
+C:\Users\abdul\source\repos\08.remove.selected.item\08.remove.selected.item\obj\Debug\08.remove.selected.item.exe
+C:\Users\abdul\source\repos\08.remove.selected.item\08.remove.selected.item\obj\Debug\08.remove.selected.item.pdb
