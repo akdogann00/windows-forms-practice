@@ -1,0 +1,10 @@
+C:\Users\abdul\source\repos\07.add.to.listbox\07.add.to.listbox\bin\Debug\07.add.to.listbox.exe.config
+C:\Users\abdul\source\repos\07.add.to.listbox\07.add.to.listbox\bin\Debug\07.add.to.listbox.exe
+C:\Users\abdul\source\repos\07.add.to.listbox\07.add.to.listbox\bin\Debug\07.add.to.listbox.pdb
+C:\Users\abdul\source\repos\07.add.to.listbox\07.add.to.listbox\obj\Debug\07.add.to.listbox.csproj.AssemblyReference.cache
+C:\Users\abdul\source\repos\07.add.to.listbox\07.add.to.listbox\obj\Debug\_07.add.to.listbox.Form1.resources
+C:\Users\abdul\source\repos\07.add.to.listbox\07.add.to.listbox\obj\Debug\_07.add.to.listbox.Properties.Resources.resources
+C:\Users\abdul\source\repos\07.add.to.listbox\07.add.to.listbox\obj\Debug\07.add.to.listbox.csproj.GenerateResource.cache
+C:\Users\abdul\source\repos\07.add.to.listbox\07.add.to.listbox\obj\Debug\07.add.to.listbox.csproj.CoreCompileInputs.cache
+C:\Users\abdul\source\repos\07.add.to.listbox\07.add.to.listbox\obj\Debug\07.add.to.listbox.exe
+C:\Users\abdul\source\repos\07.add.to.listbox\07.add.to.listbox\obj\Debug\07.add.to.listbox.pdb
