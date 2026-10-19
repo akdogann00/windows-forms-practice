@@ -1,0 +1,10 @@
+C:\Users\abdul\source\repos\11.combobox.project\11.combobox.project\bin\Debug\11.combobox.project.exe.config
+C:\Users\abdul\source\repos\11.combobox.project\11.combobox.project\bin\Debug\11.combobox.project.exe
+C:\Users\abdul\source\repos\11.combobox.project\11.combobox.project\bin\Debug\11.combobox.project.pdb
+C:\Users\abdul\source\repos\11.combobox.project\11.combobox.project\obj\Debug\11.combobox.project.csproj.AssemblyReference.cache
+C:\Users\abdul\source\repos\11.combobox.project\11.combobox.project\obj\Debug\_11.combobox.project.Form1.resources
+C:\Users\abdul\source\repos\11.combobox.project\11.combobox.project\obj\Debug\_11.combobox.project.Properties.Resources.resources
+C:\Users\abdul\source\repos\11.combobox.project\11.combobox.project\obj\Debug\11.combobox.project.csproj.GenerateResource.cache
+C:\Users\abdul\source\repos\11.combobox.project\11.combobox.project\obj\Debug\11.combobox.project.csproj.CoreCompileInputs.cache
+C:\Users\abdul\source\repos\11.combobox.project\11.combobox.project\obj\Debug\11.combobox.project.exe
+C:\Users\abdul\source\repos\11.combobox.project\11.combobox.project\obj\Debug\11.combobox.project.pdb
