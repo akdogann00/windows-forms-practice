@@ -1,0 +1,10 @@
+C:\Users\abdul\source\repos\15.simple.login.project\15.simple.login.project\obj\Debug\15.simple.login.project.csproj.AssemblyReference.cache
+C:\Users\abdul\source\repos\15.simple.login.project\15.simple.login.project\obj\Debug\_15.simple.login.project.Form1.resources
+C:\Users\abdul\source\repos\15.simple.login.project\15.simple.login.project\obj\Debug\_15.simple.login.project.Properties.Resources.resources
+C:\Users\abdul\source\repos\15.simple.login.project\15.simple.login.project\obj\Debug\15.simple.login.project.csproj.GenerateResource.cache
+C:\Users\abdul\source\repos\15.simple.login.project\15.simple.login.project\obj\Debug\15.simple.login.project.csproj.CoreCompileInputs.cache
+C:\Users\abdul\source\repos\15.simple.login.project\15.simple.login.project\bin\Debug\15.simple.login.project.exe.config
+C:\Users\abdul\source\repos\15.simple.login.project\15.simple.login.project\bin\Debug\15.simple.login.project.exe
+C:\Users\abdul\source\repos\15.simple.login.project\15.simple.login.project\bin\Debug\15.simple.login.project.pdb
+C:\Users\abdul\source\repos\15.simple.login.project\15.simple.login.project\obj\Debug\15.simple.login.project.exe
+C:\Users\abdul\source\repos\15.simple.login.project\15.simple.login.project\obj\Debug\15.simple.login.project.pdb
