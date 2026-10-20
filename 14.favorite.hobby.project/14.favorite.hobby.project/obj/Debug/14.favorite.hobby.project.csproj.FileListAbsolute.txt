@@ -1,0 +1,10 @@
+C:\Users\abdul\source\repos\14.favorite.hobby.project\14.favorite.hobby.project\bin\Debug\14.favorite.hobby.project.exe.config
+C:\Users\abdul\source\repos\14.favorite.hobby.project\14.favorite.hobby.project\bin\Debug\14.favorite.hobby.project.exe
+C:\Users\abdul\source\repos\14.favorite.hobby.project\14.favorite.hobby.project\bin\Debug\14.favorite.hobby.project.pdb
+C:\Users\abdul\source\repos\14.favorite.hobby.project\14.favorite.hobby.project\obj\Debug\14.favorite.hobby.project.csproj.AssemblyReference.cache
+C:\Users\abdul\source\repos\14.favorite.hobby.project\14.favorite.hobby.project\obj\Debug\_14.favorite.hobby.project.Form1.resources
+C:\Users\abdul\source\repos\14.favorite.hobby.project\14.favorite.hobby.project\obj\Debug\_14.favorite.hobby.project.Properties.Resources.resources
+C:\Users\abdul\source\repos\14.favorite.hobby.project\14.favorite.hobby.project\obj\Debug\14.favorite.hobby.project.csproj.GenerateResource.cache
+C:\Users\abdul\source\repos\14.favorite.hobby.project\14.favorite.hobby.project\obj\Debug\14.favorite.hobby.project.csproj.CoreCompileInputs.cache
+C:\Users\abdul\source\repos\14.favorite.hobby.project\14.favorite.hobby.project\obj\Debug\14.favorite.hobby.project.exe
+C:\Users\abdul\source\repos\14.favorite.hobby.project\14.favorite.hobby.project\obj\Debug\14.favorite.hobby.project.pdb
