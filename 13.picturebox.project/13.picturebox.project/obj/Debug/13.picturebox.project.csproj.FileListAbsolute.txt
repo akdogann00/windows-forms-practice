@@ -1,0 +1,10 @@
+C:\Users\abdul\source\repos\13.picturebox.project\13.picturebox.project\bin\Debug\13.picturebox.project.exe.config
+C:\Users\abdul\source\repos\13.picturebox.project\13.picturebox.project\bin\Debug\13.picturebox.project.exe
+C:\Users\abdul\source\repos\13.picturebox.project\13.picturebox.project\bin\Debug\13.picturebox.project.pdb
+C:\Users\abdul\source\repos\13.picturebox.project\13.picturebox.project\obj\Debug\13.picturebox.project.csproj.AssemblyReference.cache
+C:\Users\abdul\source\repos\13.picturebox.project\13.picturebox.project\obj\Debug\_13.picturebox.project.Form1.resources
+C:\Users\abdul\source\repos\13.picturebox.project\13.picturebox.project\obj\Debug\_13.picturebox.project.Properties.Resources.resources
+C:\Users\abdul\source\repos\13.picturebox.project\13.picturebox.project\obj\Debug\13.picturebox.project.csproj.GenerateResource.cache
+C:\Users\abdul\source\repos\13.picturebox.project\13.picturebox.project\obj\Debug\13.picturebox.project.csproj.CoreCompileInputs.cache
+C:\Users\abdul\source\repos\13.picturebox.project\13.picturebox.project\obj\Debug\13.picturebox.project.exe
+C:\Users\abdul\source\repos\13.picturebox.project\13.picturebox.project\obj\Debug\13.picturebox.project.pdb
