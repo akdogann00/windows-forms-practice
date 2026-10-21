@@ -1,0 +1,10 @@
+C:\Users\abdul\source\repos\16.form.title.changer\16.form.title.changer\obj\Debug\16.form.title.changer.csproj.AssemblyReference.cache
+C:\Users\abdul\source\repos\16.form.title.changer\16.form.title.changer\obj\Debug\_16.form.title.changer.Form1.resources
+C:\Users\abdul\source\repos\16.form.title.changer\16.form.title.changer\obj\Debug\_16.form.title.changer.Properties.Resources.resources
+C:\Users\abdul\source\repos\16.form.title.changer\16.form.title.changer\obj\Debug\16.form.title.changer.csproj.GenerateResource.cache
+C:\Users\abdul\source\repos\16.form.title.changer\16.form.title.changer\obj\Debug\16.form.title.changer.csproj.CoreCompileInputs.cache
+C:\Users\abdul\source\repos\16.form.title.changer\16.form.title.changer\bin\Debug\16.form.title.changer.exe.config
+C:\Users\abdul\source\repos\16.form.title.changer\16.form.title.changer\bin\Debug\16.form.title.changer.exe
+C:\Users\abdul\source\repos\16.form.title.changer\16.form.title.changer\bin\Debug\16.form.title.changer.pdb
+C:\Users\abdul\source\repos\16.form.title.changer\16.form.title.changer\obj\Debug\16.form.title.changer.exe
+C:\Users\abdul\source\repos\16.form.title.changer\16.form.title.changer\obj\Debug\16.form.title.changer.pdb
