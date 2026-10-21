@@ -1,0 +1,10 @@
+C:\Users\abdul\source\repos\18.name.greeter.project\18.name.greeter.project\obj\Debug\18.name.greeter.project.csproj.AssemblyReference.cache
+C:\Users\abdul\source\repos\18.name.greeter.project\18.name.greeter.project\obj\Debug\_18.name.greeter.project.Form1.resources
+C:\Users\abdul\source\repos\18.name.greeter.project\18.name.greeter.project\obj\Debug\_18.name.greeter.project.Properties.Resources.resources
+C:\Users\abdul\source\repos\18.name.greeter.project\18.name.greeter.project\obj\Debug\18.name.greeter.project.csproj.GenerateResource.cache
+C:\Users\abdul\source\repos\18.name.greeter.project\18.name.greeter.project\obj\Debug\18.name.greeter.project.csproj.CoreCompileInputs.cache
+C:\Users\abdul\source\repos\18.name.greeter.project\18.name.greeter.project\bin\Debug\18.name.greeter.project.exe.config
+C:\Users\abdul\source\repos\18.name.greeter.project\18.name.greeter.project\bin\Debug\18.name.greeter.project.exe
+C:\Users\abdul\source\repos\18.name.greeter.project\18.name.greeter.project\bin\Debug\18.name.greeter.project.pdb
+C:\Users\abdul\source\repos\18.name.greeter.project\18.name.greeter.project\obj\Debug\18.name.greeter.project.exe
+C:\Users\abdul\source\repos\18.name.greeter.project\18.name.greeter.project\obj\Debug\18.name.greeter.project.pdb
