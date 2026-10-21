@@ -1,0 +1,10 @@
+C:\Users\abdul\source\repos\17.clear.label.project\17.clear.label.project\obj\Debug\17.clear.label.project.csproj.AssemblyReference.cache
+C:\Users\abdul\source\repos\17.clear.label.project\17.clear.label.project\obj\Debug\_17.clear.label.project.Form1.resources
+C:\Users\abdul\source\repos\17.clear.label.project\17.clear.label.project\obj\Debug\_17.clear.label.project.Properties.Resources.resources
+C:\Users\abdul\source\repos\17.clear.label.project\17.clear.label.project\obj\Debug\17.clear.label.project.csproj.GenerateResource.cache
+C:\Users\abdul\source\repos\17.clear.label.project\17.clear.label.project\obj\Debug\17.clear.label.project.csproj.CoreCompileInputs.cache
+C:\Users\abdul\source\repos\17.clear.label.project\17.clear.label.project\bin\Debug\17.clear.label.project.exe.config
+C:\Users\abdul\source\repos\17.clear.label.project\17.clear.label.project\bin\Debug\17.clear.label.project.exe
+C:\Users\abdul\source\repos\17.clear.label.project\17.clear.label.project\bin\Debug\17.clear.label.project.pdb
+C:\Users\abdul\source\repos\17.clear.label.project\17.clear.label.project\obj\Debug\17.clear.label.project.exe
+C:\Users\abdul\source\repos\17.clear.label.project\17.clear.label.project\obj\Debug\17.clear.label.project.pdb
