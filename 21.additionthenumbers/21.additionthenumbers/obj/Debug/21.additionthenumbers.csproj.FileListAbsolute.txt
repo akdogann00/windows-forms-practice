@@ -1,0 +1,10 @@
+C:\Users\abdul\source\repos\21.additionthenumbers\21.additionthenumbers\obj\Debug\21.additionthenumbers.csproj.AssemblyReference.cache
+C:\Users\abdul\source\repos\21.additionthenumbers\21.additionthenumbers\obj\Debug\_21.additionthenumbers.Form1.resources
+C:\Users\abdul\source\repos\21.additionthenumbers\21.additionthenumbers\obj\Debug\_21.additionthenumbers.Properties.Resources.resources
+C:\Users\abdul\source\repos\21.additionthenumbers\21.additionthenumbers\obj\Debug\21.additionthenumbers.csproj.GenerateResource.cache
+C:\Users\abdul\source\repos\21.additionthenumbers\21.additionthenumbers\obj\Debug\21.additionthenumbers.csproj.CoreCompileInputs.cache
+C:\Users\abdul\source\repos\21.additionthenumbers\21.additionthenumbers\bin\Debug\21.additionthenumbers.exe.config
+C:\Users\abdul\source\repos\21.additionthenumbers\21.additionthenumbers\bin\Debug\21.additionthenumbers.exe
+C:\Users\abdul\source\repos\21.additionthenumbers\21.additionthenumbers\bin\Debug\21.additionthenumbers.pdb
+C:\Users\abdul\source\repos\21.additionthenumbers\21.additionthenumbers\obj\Debug\21.additionthenumbers.exe
+C:\Users\abdul\source\repos\21.additionthenumbers\21.additionthenumbers\obj\Debug\21.additionthenumbers.pdb
