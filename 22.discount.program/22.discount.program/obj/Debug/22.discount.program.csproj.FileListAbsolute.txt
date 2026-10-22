@@ -1,0 +1,10 @@
+C:\Users\abdul\source\repos\22.discount.program\22.discount.program\bin\Debug\22.discount.program.exe.config
+C:\Users\abdul\source\repos\22.discount.program\22.discount.program\bin\Debug\22.discount.program.exe
+C:\Users\abdul\source\repos\22.discount.program\22.discount.program\bin\Debug\22.discount.program.pdb
+C:\Users\abdul\source\repos\22.discount.program\22.discount.program\obj\Debug\22.discount.program.csproj.AssemblyReference.cache
+C:\Users\abdul\source\repos\22.discount.program\22.discount.program\obj\Debug\_22.discount.program.Form1.resources
+C:\Users\abdul\source\repos\22.discount.program\22.discount.program\obj\Debug\_22.discount.program.Properties.Resources.resources
+C:\Users\abdul\source\repos\22.discount.program\22.discount.program\obj\Debug\22.discount.program.csproj.GenerateResource.cache
+C:\Users\abdul\source\repos\22.discount.program\22.discount.program\obj\Debug\22.discount.program.csproj.CoreCompileInputs.cache
+C:\Users\abdul\source\repos\22.discount.program\22.discount.program\obj\Debug\22.discount.program.exe
+C:\Users\abdul\source\repos\22.discount.program\22.discount.program\obj\Debug\22.discount.program.pdb
