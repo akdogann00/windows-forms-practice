@@ -1,0 +1,10 @@
+C:\Users\abdul\source\repos\23.gpa.calculator\23.gpa.calculator\bin\Debug\23.gpa.calculator.exe.config
+C:\Users\abdul\source\repos\23.gpa.calculator\23.gpa.calculator\bin\Debug\23.gpa.calculator.exe
+C:\Users\abdul\source\repos\23.gpa.calculator\23.gpa.calculator\bin\Debug\23.gpa.calculator.pdb
+C:\Users\abdul\source\repos\23.gpa.calculator\23.gpa.calculator\obj\Debug\23.gpa.calculator.csproj.AssemblyReference.cache
+C:\Users\abdul\source\repos\23.gpa.calculator\23.gpa.calculator\obj\Debug\_23.gpa.calculator.Form1.resources
+C:\Users\abdul\source\repos\23.gpa.calculator\23.gpa.calculator\obj\Debug\_23.gpa.calculator.Properties.Resources.resources
+C:\Users\abdul\source\repos\23.gpa.calculator\23.gpa.calculator\obj\Debug\23.gpa.calculator.csproj.GenerateResource.cache
+C:\Users\abdul\source\repos\23.gpa.calculator\23.gpa.calculator\obj\Debug\23.gpa.calculator.csproj.CoreCompileInputs.cache
+C:\Users\abdul\source\repos\23.gpa.calculator\23.gpa.calculator\obj\Debug\23.gpa.calculator.exe
+C:\Users\abdul\source\repos\23.gpa.calculator\23.gpa.calculator\obj\Debug\23.gpa.calculator.pdb
