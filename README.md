@@ -20,6 +20,16 @@ This repository documents my learning journey through practical exercises, Windo
 - **IDE:** Visual Studio
 - **Version Control:** GitHub
 
+## ⚙️ How to Run
+
+- **1**.Download or clone this repository to your computer.
+- **2**.Open the project folder.
+- **3**.Find the .sln file and open it with Visual Studio.
+- **4**.Wait for Visual Studio to load the project.
+- **5**.Press F5 or click Start to run the application.
+
+**Note:** Visual Studio with the .NET desktop development workload is required to run this Windows Forms application.
+
 ## 📚 Projects
 
 ### 1. Basic Controls & User Input
