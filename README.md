@@ -77,6 +77,14 @@ This repository documents my learning journey through practical exercises, Windo
 | `23.gpa.calculator` | Calculating grade averages |
 | `24.age.calculator` | Calculating age |
 
+### 5. Additional Windows Forms Projects
+
+| **Project**                 | **Description**                              |
+| --------------------------- | -------------------------------------------- |
+| `25.student.registration`   | Practicing student registration forms        |
+| `26.random.number.generator`| Generating random numbers                    |
+| `27.stopwatchApp`           | A basic stopwatch application                |
+
 ## 🚀 Getting Started
 
 ### Prerequisites
