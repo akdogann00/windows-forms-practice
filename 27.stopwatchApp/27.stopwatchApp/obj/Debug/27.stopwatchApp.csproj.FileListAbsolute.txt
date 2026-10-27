@@ -1,0 +1,10 @@
+C:\Users\abdul\source\repos\27.stopwatchApp\27.stopwatchApp\bin\Debug\27.stopwatchApp.exe.config
+C:\Users\abdul\source\repos\27.stopwatchApp\27.stopwatchApp\bin\Debug\27.stopwatchApp.exe
+C:\Users\abdul\source\repos\27.stopwatchApp\27.stopwatchApp\bin\Debug\27.stopwatchApp.pdb
+C:\Users\abdul\source\repos\27.stopwatchApp\27.stopwatchApp\obj\Debug\27.stopwatchApp.csproj.AssemblyReference.cache
+C:\Users\abdul\source\repos\27.stopwatchApp\27.stopwatchApp\obj\Debug\_27.stopwatchApp.Form1.resources
+C:\Users\abdul\source\repos\27.stopwatchApp\27.stopwatchApp\obj\Debug\_27.stopwatchApp.Properties.Resources.resources
+C:\Users\abdul\source\repos\27.stopwatchApp\27.stopwatchApp\obj\Debug\27.stopwatchApp.csproj.GenerateResource.cache
+C:\Users\abdul\source\repos\27.stopwatchApp\27.stopwatchApp\obj\Debug\27.stopwatchApp.csproj.CoreCompileInputs.cache
+C:\Users\abdul\source\repos\27.stopwatchApp\27.stopwatchApp\obj\Debug\27.stopwatchApp.exe
+C:\Users\abdul\source\repos\27.stopwatchApp\27.stopwatchApp\obj\Debug\27.stopwatchApp.pdb
