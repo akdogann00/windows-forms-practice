@@ -1,0 +1,10 @@
+C:\Users\abdul\source\repos\28.lucky.number\28.lucky.number\bin\Debug\28.lucky.number.exe.config
+C:\Users\abdul\source\repos\28.lucky.number\28.lucky.number\bin\Debug\28.lucky.number.exe
+C:\Users\abdul\source\repos\28.lucky.number\28.lucky.number\bin\Debug\28.lucky.number.pdb
+C:\Users\abdul\source\repos\28.lucky.number\28.lucky.number\obj\Debug\28.lucky.number.csproj.AssemblyReference.cache
+C:\Users\abdul\source\repos\28.lucky.number\28.lucky.number\obj\Debug\_28.lucky.number.Form1.resources
+C:\Users\abdul\source\repos\28.lucky.number\28.lucky.number\obj\Debug\_28.lucky.number.Properties.Resources.resources
+C:\Users\abdul\source\repos\28.lucky.number\28.lucky.number\obj\Debug\28.lucky.number.csproj.GenerateResource.cache
+C:\Users\abdul\source\repos\28.lucky.number\28.lucky.number\obj\Debug\28.lucky.number.csproj.CoreCompileInputs.cache
+C:\Users\abdul\source\repos\28.lucky.number\28.lucky.number\obj\Debug\28.lucky.number.exe
+C:\Users\abdul\source\repos\28.lucky.number\28.lucky.number\obj\Debug\28.lucky.number.pdb
